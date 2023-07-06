@@ -40,3 +40,9 @@ To deploy this project run
 ```
 
 
+## 🎯 Upcoming Features 
+
+- Login Feature for different users.
+- JWT Authentication.
+- Real Database storage (using MongoDB)
+
