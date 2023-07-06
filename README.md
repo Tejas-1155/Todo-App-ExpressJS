@@ -21,9 +21,14 @@ The Express Todo App is a lightweight and efficient task management application 
 
 ## Deployment
 
-- If Node is not installed in your machine, then firstly download NodeJS.
+- Ensure NodeJS is installed in your machine.
 
-Ensure installing express, nodemon, cors, uuid 
+Initialise node_modules
+```bash
+  npm init
+```
+
+Install express, nodemon, cors, uuid 
 ```bash
   npm install express nodemon cors uuid
 ```
